@@ -1,0 +1,1 @@
+- [Generated client browser types](typed-client-dom-iterable.md) — include `dom.iterable` when the generated client uses `Headers.entries()`.
